@@ -23,6 +23,7 @@ https://apiaffaires.mozaikportail.ca/api/evaluation/apprentissage/CODE-ÉTABLISS
 
 Une liste des absences, a voir si ont peut voir une nouvelle absence non motivée / école buissonnière
 https://apiaffaires.mozaikportail.ca/api/comportement/assiduite/CODE-ÉTABLISSEMENT/anneeCourante/NUMÉRO-FICHE/absences/parent?historiqueAbsencesDateDebut=&historiqueAbsencesDateFin=2023-12-26&exclude=absencesAMotiver,avisAbsences
+
 Le nombre d'absence total
 https://apiaffaires.mozaikportail.ca/api/comportement/assiduite/CODE-ÉTABLISSEMENT/anneeCourante/NUMÉRO-FICHE/absences/parent?historiqueAbsencesDateDebut=2023-12-27&historiqueAbsencesDateFin=&exclude=
 
