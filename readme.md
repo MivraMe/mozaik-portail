@@ -18,6 +18,9 @@ https://apiaffaires.mozaikportail.ca/api/individu/eleves/CODE-ÉTABLISSEMENT/NUM
 Une liste des congés ainsi que une liste des ''jourcycle''
 https://apiaffaires.mozaikportail.ca/api/organisationScolaire/preparatifs/CODE-ÉTABLISSEMENT/anneeCourante/NUMÉRO-FICHE/grilleHoraire
 
+Horaire
+https://apiaffairesmp.mozaikportail.ca/api/organisationScolaire/donneesAnnuelles/842009/819771/activitescalendrier?dateDebut=2024-02-25&dateFin=2024-03-02
+
 Liste des matieres avec différentes informations
 https://apiaffaires.mozaikportail.ca/api/evaluation/apprentissage/CODE-ÉTABLISSEMENT/anneeCourante/matieres/eleves/NUMÉRO-FICHE
 
