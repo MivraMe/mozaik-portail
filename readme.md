@@ -1,7 +1,7 @@
 # Seulement une liste des requetes qui pourrait être utile que j'ai trouvé. Je ne connais pas encore les requetes.
 
 Avec le cookie pp il est possible d'acceder au information du compte mozaik a l'adresse suivante
-­­­´´´https://portailparents.ca/connect/authentificationinfo?authType=pp­­­­­­´´´
+https://portailparents.ca/connect/authentificationinfo?authType=pp­­­­­­
 Ont obtient donc le token qui vas etre utilisé dans toute les requetes, une liste des enfants, le ID d'établissement et d'autre information.
 
 Voici les requete pour le moment :
